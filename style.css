@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+    color:#F7374F;
+    padding: 5px;
+}
+
+header{
+    text-align: center;
+}
+
+span{
+    background-color: #096B68;
+    color: white;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+main{
+    display: flex;
+    margin-top: 10px;
+}
+div{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
+img{
+    width: 200;
+}
